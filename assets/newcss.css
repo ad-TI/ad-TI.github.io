@@ -560,7 +560,7 @@ img {
 }
 
 /*===================== About ==================*/
-.about__video {
+.about__img {
   width: 100%; /* Adjust width to fit the container */
   height: auto; /* Maintain aspect ratio */
   display: block; /* Remove any default inline spacing */
